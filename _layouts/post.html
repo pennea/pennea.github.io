@@ -12,6 +12,19 @@ layout: default
 <h1 class="title">{{ page.title }}</h1>
 
 <div id="post">
+
+{% if page.categories contains 'event' %}
+
+<h4>Date</h4>
+{{ page.date | date: "%-H:%M, %B %d, %Y" }}
+
+<h4>Location</h4>
+{{ page.location }}
+
+<h4>Details</h4>
+
+{% endif %}
+
   {{ content }}
 </div>
 
