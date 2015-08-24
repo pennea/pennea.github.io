@@ -126,6 +126,11 @@ nav h1, nav h2 {
   font-size:16pt;
 }
 
+.sidebarlinks {
+  list-style-type:none;
+  font-size:13pt;
+}
+
 #social {
   margin-bottom: 10px;
   font-size: 13px;

@@ -2,30 +2,30 @@
 
 # Color for top bar, links, etc
 #highlight_color: '#3498db'
-highlight_color: '#0F3575' # upenn background color
+highlight_color: '#0F3575' # upenn.edu background color
 
 # Profile links on the left sidebar, leave blank to ignore
 social:
   facebook: gwwcpenn
   github: pennea
-  #bitbucket: philipj
-  #hacker_news: swanson
-  #stackexchange: 348619
-  #stackoverflow: 348619
-  #twitter: larry
-  #tumblr: animalygifs
-  #linkedin: philipjagielski
-  #gplus: 110552447039675960964
-  #gravatar: 56e8e22796618ea3b817d4aae19c6e33
+  #twitter:
+  #linkedin:
+  #bitbucket:
+  #hacker_news:
+  #stackexchange:
+  #stackoverflow:
+  #tumblr:
+  #gplus:
+  #gravatar:
 
 # "Hi, I'm _______"
-#name: Mr Penn
-#email: blank
+#name:
+#email:
 title: Penn Effective Altruism
-tagline: "Soft hearts, hard heads"
+#tagline:
 
 # Google Analytics key, leave blank to ignore
-google_analytics_key: UA-xxxx-x
+#google_analytics_key: UA-xxxx-x
 
 # Toggle "Postings are my own" disclaimer in footer
 show_disclaimer: false
