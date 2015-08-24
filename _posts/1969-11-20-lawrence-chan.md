@@ -1,7 +1,7 @@
 ---
 firstname: Lawrence
 lastname: Chan
-position: Webmaster
+position: Future of Humanity Society
 email-user: chanlaw
 email-host: sas.upenn.edu
 category: team

@@ -7,7 +7,6 @@
     {{person.position}}:
     <!--Used to prevent email spam-->
     <script type="text/javascript">
-      var emailParts = "{{person.email}}".split("@")
       document.write('<a href="mailto:' + '{{person.email-user}}' + '@' + '{{person.email-host}}' + '">')
     </script>
 	{{person.firstname}} {{person.lastname}}</a>
