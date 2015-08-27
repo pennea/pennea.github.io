@@ -4,5 +4,5 @@ title: Future of Humanity Society
 nav: causes
 permalink: /fhs/
 ---
-![FHS](/assets/fhsbannersmall.jpg)
+![FHS](/assets/fhsbanner1.png)
 Existential risks to humanity.
