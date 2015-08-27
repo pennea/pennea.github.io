@@ -5,4 +5,4 @@ nav: causes
 permalink: /fhs/
 ---
 ![FHS]({{ site.url }}/assets/fhsbanner1.png)
-Existential risks to humanity.
+Existential risks to humanity, such as.
