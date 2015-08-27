@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Future of Humanity Society
 nav: causes
 permalink: /fhs/
