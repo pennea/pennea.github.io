@@ -14,3 +14,5 @@ The three charities will be GiveDirectly, Innovations for Poverty Action, and Th
 There will be food (probably pizza) and drinks. After the event there will be time to mingle and chat with members of Giving What We Can: Penn and One for the World for those who are interested in getting involved.
 
 [Facebook event](https://www.facebook.com/events/352415588258494/)
+
+[Slides from the event can be found here](https://docs.google.com/presentation/d/1UFD259Jpi0zpjV9dKnLE-DuZt-A3JkBGmnv5rzuutfE/edit#slide=id.g410dd059e_0116)
