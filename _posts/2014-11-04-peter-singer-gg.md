@@ -2,7 +2,7 @@
 layout: post
 guest:  "Rossa O'Keeffe-O'Donovan, Mark Toubman, Peter Buckley"
 title: "Peter Singer's Giving Game"
-date:   2014-11-4 19:00:00
+date:   2014-11-04 19:00:00
 location: "Terrace Room (G14), Claudia Cohen Hall"
 categories: event
 ---
