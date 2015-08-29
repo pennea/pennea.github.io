@@ -10,9 +10,6 @@ Jeff's a Google engineer. Julia's a mental health clinician. Together, they gave
 
 Jeff will discuss his career path from startup to Google, and he and Julia will explain how they arrived at their current altruistic philosophy and give an introduction to the growing Effective Altruism movement.
 
-Both Jeff and Julia have very thoughtful blogs about Effective Altruism, and they have been featured in the Washington Post:
-http://www.givinggladly.com/
-http://www.jefftk.com/index
-http://www.washingtonpost.com/news/wonkblog/wp/2013/05/31/join-wall-street-save-the-world/
+Both Jeff and Julia have very thoughtful blogs about Effective Altruism, Julia's is called [Giving Gladly](http://www.givinggladly.com/) and Jeff's is [here](http://www.jefftk.com/index). They have also been featured in the [Washington Post](http://www.washingtonpost.com/news/wonkblog/wp/2013/05/31/join-wall-street-save-the-world/).
 
-The event will provisionally be in ARCH 108: http://www.vpul.upenn.edu/perelmanquad/arch108.php
+The event will provisionally be in [ARCH 108](http://www.vpul.upenn.edu/perelmanquad/arch108.php)
