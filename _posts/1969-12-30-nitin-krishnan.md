@@ -1,7 +1,7 @@
 ---
 firstname: Nitin
 lastname: Krishnan
-position: Co-president
+position: Co-President, GWWC: Penn
 email-user: nitink
 email-host: sas.upenn.edu
 category: team
