@@ -2,7 +2,7 @@
 firstname: Mark
 lastname: Toubman
 position: Director of Fundraising and Publicity
-email-user: hannaw
-email-host: sas.upenn.edu
+email-user: toubmanm
+email-host: gmail.com
 category: team
 ---
