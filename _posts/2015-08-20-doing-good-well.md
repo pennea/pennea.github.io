@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Doing Good Well: An Intro to the EA Movement"
+guest:  "Penn Effective Altruism"
+title: "Doing Good Well: How to do the most good"
 date:   2015-9-11 15:00:00
 location: "TBD"
 categories: event
