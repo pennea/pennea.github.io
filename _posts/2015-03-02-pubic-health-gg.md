@@ -18,3 +18,5 @@ Food and drinks will be provided, as sponsored by Graduate and Professional Stud
 People who do not attend Penn are very welcome to attend!
 
 [Facebook event](https://www.facebook.com/events/1622061158024854/)
+
+[Slides available here](https://docs.google.com/presentation/d/1dQx2Ji7AWb4Pm5HsN2tmufPI_fDugQEIam_TfflhJiw/edit#slide=id.p)
