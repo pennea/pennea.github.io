@@ -16,3 +16,5 @@ The three charities we will be comparing are Partners in Health (http://www.pih.
 Food and drinks will be provided, as sponsored by Graduate and Professional Student Assembly (GAPSA).
 
 People who do not attend Penn are very welcome to attend!
+
+[Facebook event](https://www.facebook.com/events/1622061158024854/)
