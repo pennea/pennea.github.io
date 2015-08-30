@@ -15,7 +15,7 @@ The discussions were of a very high quality, and some very pertinent questions w
 
 We do not have definitive answers to all of these questions, but we gave a short presentation on how some professional organizations invest significant resources in trying to best answer them. The slides for the presentation can be found online [here](https://docs.google.com/presentation/d/1lM3bBGy9CmVZRhesMSAj-dk0MppSkc5X6AmxYO0DAFA/edit), and links to some of the organizations discussed in the presentation are below:
 
-- [Giving What We Can](http://www.givingwhatwecan.org/ GWWC members pledge 10% of their income to effective charities (1% for students), and GWWC recommends effective charities to their members based on thorough research
+- [Giving What We Can](http://www.givingwhatwecan.org/) GWWC members pledge 10% of their income to effective charities (1% for students), and GWWC recommends effective charities to their members based on thorough research
 - [GiveWell](http://www.givewell.org/) conducs extremely thorough research on charity effectiveness, and currently recommends 3 top charities
 - [The Life You Can Save](http://www.thelifeyoucansave.org/) members pledge at least 1% of their income to effective charities, which are again researched and recommended. The founder, Peter Singer, gives a great 15 minute TED talk on Effective Altruism below.
 
