@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hello World!"
+title:  "Welcome to our new website, PennEA.org"
 date:   2015-08-24 08:30:00
 categories: blog
 ---
