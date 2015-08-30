@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Name of post"
+title:  "Launching a chapter with a Giving Game: what we learned"
 date:   2014-08-07 23:31:00
 categories: blog
 ---
