@@ -1,5 +1,6 @@
 ---
 layout: post
+guest:  "Future of Humanity Society"
 title: "Movie Night: Artificial Intelligence and the Future of Humanity"
 date:   2015-08-24 21:00:00
 location: "Meyerson Hall B3, 210 South 34th Street"
