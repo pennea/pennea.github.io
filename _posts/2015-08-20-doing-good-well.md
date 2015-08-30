@@ -2,7 +2,7 @@
 layout: post
 guest:  "Penn Effective Altruism"
 title: "Doing Good Well: How To Do The Most Good"
-date:   2015-9-11 15:00:00
+date:   2015-9-11 14:00:00
 location: "TBD"
 categories: event
 ---
