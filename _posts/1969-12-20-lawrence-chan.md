@@ -1,8 +1,8 @@
 ---
-firstname: Chris
-lastname: Painter
+firstname: Lawrence
+lastname: Chan
 position: Co-President, Future of Humanity Society
-email-user: cpainter
-email-host: wharton.upenn.edu
+email-user: chanlaw
+email-host: sas.upenn.edu
 category: team
 ---
