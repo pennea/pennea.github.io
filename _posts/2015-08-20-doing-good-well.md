@@ -3,7 +3,7 @@ layout: post
 guest:  "Penn Effective Altruism"
 title: "Doing Good Well: How To Do The Most Good"
 date:   2015-9-11 14:00:00
-location: "TBD"
+location: "Cafe 58, Irvine Auditorium"
 categories: event
 ---
 What’s the most effective way to do good? 
