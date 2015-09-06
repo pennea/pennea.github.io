@@ -3,7 +3,7 @@ layout: post
 guest:  "Jeff Kaufman and Julia Wise"
 title: "An Introduction to Effective Altruism"
 date:   2015-09-14 18:00:00
-location: "ARCH 108, UPenn (to be confirmed)"
+location: "Huntsman Hall, Room 250 (JMHH 250)"
 categories: event
 ---
 Jeff's a Google engineer. Julia's a mental health clinician. Together, they gave roughly half their income to fight global poverty in 2014. They're also married, with an extremely cute baby.
