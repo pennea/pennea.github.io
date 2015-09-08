@@ -4,4 +4,4 @@ highlighter: pygments
 url: http://pennea.org
 lsi: false
 exclude: [LICENSE, CNAME, README.md, TODO.md, .gitignore, Gemfile, Gemfile.lock]
-permalink: /blog/:year/:month/:day/:title/
+permalink: /:categories/:year/:month/:day/:title/
