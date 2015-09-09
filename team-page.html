@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Team
 nav: main
 permalink: /team/
@@ -8,6 +8,7 @@ permalink: /team/
   <ul>
 	  <!-- for loop goes in filename order: order people using date in filename -->
   {% for person in site.categories.team %}
+  <a name="{{ person.firstname }}-{{ person.lastname }}"></a>
   <li style="list-style-type:none">
     {{person.position}}:
     <!--Used to prevent email spam-->

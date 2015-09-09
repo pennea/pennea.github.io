@@ -10,3 +10,6 @@ Many people want their careers to work towards the alleviation of some giant rea
 We host discussions, speaker events, and study groups on the topics and fields of study that are most critical to humanity’s long-term survival, including artificial intelligence, epidemiology, nanotechnology, synthetic biology, nuclear arms proliferation, and more.
 
 [Like us on Facebook!](https://www.facebook.com/futureofhumanitysociety/timeline)
+
+####Contact Information
+[Lawrence Chan](/team/#Lawrence-Chan) and [Chris Painter](/team/#Chris-Painter)

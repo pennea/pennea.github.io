@@ -21,4 +21,4 @@ We are looking to provide a similar program this semester for a limited number o
 If you are interested in this, please get in touch.
 
 ####Contact Information
-Toban Wiebe and Devin Reilly
+[Devin Reilly](/team/#Devin-Reilly) and [Toban Wiebe](/team/#Toban-Wiebe)

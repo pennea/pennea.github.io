@@ -25,4 +25,4 @@ On their website, you can see the distribution of spending by the top charities,
 You may disagree about which charities are most effective, but remember to research the financial effectiveness of whichever group you choose to donate to.
  
 ####Contact Information
-Annie Freeman
+[Annie Freeman](/team/#Annie-Freeman)
