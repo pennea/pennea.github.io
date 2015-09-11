@@ -5,7 +5,7 @@
 {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
 {% for event in site.categories.event reversed %}
 
-<!-- Converting dates to scalars for comparison  -->
+
 {% capture eventtime %}{{ event.date | date: '%s'}}{% endcapture %}
 {% if eventtime > nowunix %}
 	<li style="list-style-type:none">
