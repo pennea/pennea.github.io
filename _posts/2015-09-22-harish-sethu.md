@@ -1,7 +1,7 @@
 ---
 layout: post
 guest:  "Harish Sethu"
-title: "Who We Eat and Why Should We Care"
+title: "Who We Eat (And Why We Should Care)"
 date:   2015-09-22 18:30:00
 location: "Huntsman Hall, The Wharton School of Business (Room TBC)"
 categories: event
