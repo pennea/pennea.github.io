@@ -9,6 +9,8 @@ permalink: /events/
 
   <h1 class="page-heading">Events</h1>
 
+<iframe src="https://www.google.com/calendar/embed?src=mpe3r96ghp3b8u7mk0jppijjqs%40group.calendar.google.com&ctz=America/New_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+
   <ul class="post-list">
     {% for event in site.categories.event %}
       <li>
