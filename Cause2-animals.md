@@ -26,4 +26,5 @@ You may disagree about which charities are most effective, but remember to resea
  
 ####Contact Information
 [Sign up to our mailing list](https://docs.google.com/forms/d/1vfaldHGN5X-j2uq4725wIg8HDEu8cHaHfbcfQJo6V4k/viewform)
+
 [Annie Freeman](/team/#Annie-Freeman)
