@@ -15,7 +15,7 @@ It has been researching the highest impact careers for four years with academics
 All of 80,000 Hours’ research is available for free at their website.
 Their career guide takes you through the key steps to think about while choosing a career, and they provide profiles on many of the highest impact careers that they have found.
 
-[Take the 3 minute careers quiz and check out the more in depth careers guide!](https://80000hours.org/).
+[Take the 3 minute careers quiz and check out the more in depth careers guide!](https://80000hours.org/)
 
 Last semester we ran a pilot careers coaching program at Penn, using the 80,000 Hours framework to help students to identify which career they can have the greatest impact in.
 We are looking to provide a similar program this semester for a limited number of people.
