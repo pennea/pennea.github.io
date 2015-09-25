@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Effective Animal Advocacy
+title: Penn Animal Advocacy
 nav: causes
 permalink: /animals/
 ---
-Effective animal advocacy is a way of applying effective altruism to animal charities in order to obtain the greatest possible change in animal treatment with the least amount of donated money. 
+Penn Animal Advocacy works to publicize ways to achieve the greatest possible improvement in animal treatment given our limited resources. 
  
-Animals are raised in the most horrific conditions imaginable in the meat industry, and over 56 billion farmed animals are killed each year.
-For people interested in working to change the current situation, there are countless charities to choose from, and it can be difficult to know which charities use money effectively.
+Animals are often raised in horrific conditions in the meat industry, and over 56 billion farmed animals are killed each year.
+For people interested in working to improve the lives of animals, there are countless organizations to choose to support, and it can be difficult to know which ones are most effective.
  
 There are many different approaches that animal charities take, such as:
  
