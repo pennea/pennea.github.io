@@ -12,7 +12,7 @@ Individuals in the USA give a huge amount of money to charity each year ($227bn 
 Giving Games are a fun and interactive way to encourage people to think about the effectiveness of their charitable donations, and donate somebody else's (real!) money at the same time. Each participant will be given $10 to allocate to one of three charities. We will present information about the effectiveness of each organization, and then participants will discuss and analyze their relative effectiveness, before allocating $10 to their preferred organization.
 
 This giving game will feature:
-The Humane League
-Animal Charity Evaluators
-Hampton Creek
+The Humane League,
+Animal Charity Evaluators and
+Hampton Creek.
 Come to find more about each of these great organizations, and decide which one will do the most good with $10!
