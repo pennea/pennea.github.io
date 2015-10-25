@@ -1,7 +1,7 @@
 ---
 firstname: Devin
 lastname: Reilly
-position: Director, 80,000 Hours
+position: Director of Finance
 rank: executive
 email-user: djr5286
 email-host: gmail.com
