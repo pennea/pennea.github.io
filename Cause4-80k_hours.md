@@ -5,23 +5,23 @@ nav: causes
 permalink: /80k-hours/
 ---
 ![](/assets/80k.png)
-You have 80,000 Hours in your career.
+You have 80,000 hours in your career.
 Choose how you spend that time well, and you’ll have a huge positive impact on the world.
 Choose badly and you might not achieve much at all.
 
-80,000 Hours is an organization dedicated to helping you have the largest positive impact with your career.
+*80,000 Hours* is an organization dedicated to helping you have the largest positive impact with your career.
 It has been researching the highest impact careers for four years with academics at the University of Oxford and their advice is tailored for talented young graduates. 
 
-All of 80,000 Hours’ research is available for free at their website.
+All of *80,000 Hours*’ research is available for free at their website.
 Their career guide takes you through the key steps to think about while choosing a career, and they provide profiles on many of the highest impact careers that they have found.
 
-[Take the 3 minute careers quiz and check out the more in depth careers guide!](https://80000hours.org/)
+Take the [3 minute careers quiz](https://80000hours.org/) and check out the more in depth careers guide!
 
-Last semester we ran a pilot careers coaching program at Penn, using the 80,000 Hours framework to help students to identify which career they can have the greatest impact in.
-We are looking to provide a similar program this semester for a limited number of people.
-If you are interested in this, please get in touch.
+##Free Career Coaching Workshops
+Our *80,000 Hours: Penn* chapter offers a free career coaching service to help students plan for effective careers.
+Our coaches guide you through the *80,000 Hours* framework in small groups, helping you to think about effective career options and actionable next steps.
 
-[Sign up to our mailing list and find out more about our careers coaching services on campus](https://docs.google.com/forms/d/1cZygc61yOtdI_W_-wPajAHG9WbFWYUzqBoi76lkuibU/viewform)
+#####[Sign up for the next workshop!]({% post_url 2015-10-26-80k-workshop %})
 
-####Contact Information
-[Devin Reilly](/team/#Devin-Reilly) and [Toban Wiebe](/team/#Toban-Wiebe)
+###Contact Information
+[Kendall D'Amore](/team/#Kendall-D'Amore) and [Toban Wiebe](/team/#Toban-Wiebe)
