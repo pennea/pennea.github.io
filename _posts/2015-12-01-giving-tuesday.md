@@ -8,6 +8,7 @@ categories: event
 ---
 
 We now have a fairly thriving EA community at Penn, with 5 groups actively working on various aspects of effective altruism:
+
 - Giving What We Can: Penn
 - One for the World (MBA and undergraduate)
 - 80,000 Hours
