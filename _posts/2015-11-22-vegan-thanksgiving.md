@@ -3,7 +3,7 @@ layout: post
 guest:  "Penn Animal Advocacy"
 title: "Vegan Thanksgiving Meal and Movie"
 date:   2015-11-22 17:00:00
-location: "LGBT Center"
+location: "[LGBT Center, UPenn (3907 Spruce)](http://www.vpul.upenn.edu/lgbtc/contact.php)"
 categories: event
 ---
 
