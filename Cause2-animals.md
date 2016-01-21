@@ -4,9 +4,9 @@ title: Penn Animal Advocacy
 nav: causes
 permalink: /animals/
 ---
-Penn Animal Advocacy works to publicize ways to achieve the greatest possible improvement in animal treatment given our limited resources. 
+Penn Animal Advocacy encourages people to value animals and seeks to help them in the most effective ways. We are based at the University of Pennsylavania, but work with similarly minded groups in Philadelphia. 
  
-Animals are often raised in horrific conditions in the meat industry, and over 56 billion farmed animals are killed each year.
+By trying to help animals in the most effective ways (i.e. do the most good for animals), we typically focus on animal agriculture, in particular factory farms. Animals are often raised in horrific conditions on factory farms, and over 56 billion farmed animals are killed each year.
 For people interested in working to improve the lives of animals, there are countless organizations to choose to support, and it can be difficult to know which ones are most effective.
  
 There are many different approaches that animal charities take, such as:
@@ -16,15 +16,11 @@ There are many different approaches that animal charities take, such as:
 - Animal Rescue: Some charities work to save as many farm animals (and abandoned domesticated animals) as they can, not only for the sake of the animals, but also so they can sometimes have the public interact with farm animals to realize that they are more than objects.
 - Industry exposé: Organizations infiltrate factory farms (often at legal risk themselves) in order to take videos of conditions in the hope of affecting the public’s opinion of the meat industry.
  
-There are many more approaches, but these seem to be the recurring ones among numerous charities.
-People disagree about which approach is most effective, but in general, the most effective animal charities spend some money on a wide variety of approaches, in order to have the greatest impact on culture and industry.
+We hold events at the University of Pennsylvania to assess various ways of helping animals, and to advocate for people to help animals in the most effective ways.
  
 [Animal Charity Evaluators](animalcharityevaluators.org) is a very helpful organization that researches many animal charities, determines what they are spending their money on, and how effectively they are spending that money.
-On their website, you can see the distribution of spending by the top charities, and which organizations were able to spend the least money in affecting the most change.
-
-You may disagree about which charities are most effective, but remember to research the financial effectiveness of whichever group you choose to donate to.
  
 ####Contact Information
 [Sign up to our mailing list](https://docs.google.com/forms/d/1vfaldHGN5X-j2uq4725wIg8HDEu8cHaHfbcfQJo6V4k/viewform)
 
-[Annie Freeman](/team/#Annie-Freeman)
+Email us: pennanimaladvocacy@gmail.com
