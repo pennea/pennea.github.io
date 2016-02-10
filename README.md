@@ -1,5 +1,7 @@
 #Setup and usage
+
 ##Install ruby
+
 Linux, Mac, Windows...
 
 ##Install bundler
