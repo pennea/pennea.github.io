@@ -7,7 +7,7 @@ location: "Huntsman Hall (JMHH), Room TBC"
 categories: event
 ---
 
-How have humans' relationships with animals evolved over time? And how will they continue to evolve in the future? Join us for this fascinating talks from a leading expert in animal welfare, behavior and human-animal interactions.
+Ethical concerns about the exploitation and welfare of nonhuman animals have been a recurring preoccupation throughout human history. Different societies and cultures have resolved these concerns in different ways, sometimes through radical change, but more often by adopting novel exonerative belief systems that absolve humans from responsibility. The current resurgence of interest in animal welfare and rights in developed countries appears to have been promoted by multiple factors including urbanization and the decline in rural attitudes, and the increasing use of some animals as quasi-family members and social support providers. Using some recent examples, this presentation will explore the interesting ways in which these cultural and demographic changes play out in the theatre of public opinion.
 
 Prof. Serpell is the Director of the Center for the Interaction of Animals and Society and the Marie A. Moore Professor of Ethics & Animal Welfare at the University of Pennsylvania School of Veterinary Medicine. 
 
