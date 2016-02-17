@@ -3,7 +3,7 @@ layout: post
 guest:  "Penn Animal Advocacy, Mercy For Animals"
 title: "Helping Animals Effectively: A Giving Game"
 date:   2016-03-02 18:00:00
-location: "Room TBC"
+location: "Huntsman Hall, Wharton, Room G50"
 categories: event
 ---
 
