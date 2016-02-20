@@ -11,4 +11,6 @@ Ethical concerns about the exploitation and welfare of nonhuman animals have bee
 
 Prof. Serpell is the Director of the Center for the Interaction of Animals and Society and the Marie A. Moore Professor of Ethics & Animal Welfare at the University of Pennsylvania School of Veterinary Medicine. 
 
+[RSVP on Facebook](https://www.facebook.com/events/883312845099738/)
+
 Dottie's Donuts will be served!
