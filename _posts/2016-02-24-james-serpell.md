@@ -1,7 +1,7 @@
 ---
 layout: post
 guest:  "Prof James Serpell"
-title: "Humans' Attitudes Towards Animals: Past, Present and Future"
+title: "Attitudes to Animals: Past, Present (& Future)"
 date:   2016-02-24 17:00:00
 location: "Huntsman Hall (JMHH), Room G88"
 categories: event
