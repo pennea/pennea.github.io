@@ -13,4 +13,3 @@ Giving Games are a fun way to encourage people to think carefully about which ch
 For every participant in the Giving Game, $10 from an anonymous donor will be donated to one of two charities: Schistosomiasis Control Initiative (SCI) or Give Directly. It is up to the participant to choose which charity this donation will go to, based on evidence presented and discussions with other participants in the game. 
 
 To start things off, we give a brief overview of the two charities below, and links to further information. The launch event will be held on Wednesday 19th March at the LGBT Center, and starts at 7pm - see the Facebook event for more details. See you there!
-

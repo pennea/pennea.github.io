@@ -6,7 +6,7 @@ permalink: /get-involved/
 ---
 {% include mailchimp.html %}
 
-##Ambassador Program
+## Ambassador Program
 Want to get involved?
 We are currently recruiting for a number of important roles within the organization.
 We are looking for ambassadors for each of our working teams, and committee members for One for the World.
@@ -17,7 +17,7 @@ The deadline for applications for the One for the World positions is 11:59pm Sun
 
 **[Ambassador Program Application Form][app]**
 
-##Contact us
+## Contact us
 If you have any questions, please 
 <script type="text/javascript">
 document.write('<a href="mailto:' + '{{site.data.theme.email-user}}' + '@' + '{{site.data.theme.email-host}}' + '">reach out to us</a>')

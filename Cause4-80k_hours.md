@@ -17,11 +17,11 @@ Their career guide takes you through the key steps to think about while choosing
 
 Take the [3 minute careers quiz](https://80000hours.org/) and check out the more in depth careers guide!
 
-##Free Career Coaching Workshops
+## Free Career Coaching Workshops
 Our *80,000 Hours: Penn* chapter offers a free career coaching service to help students plan for effective careers.
 Our coaches guide you through the *80,000 Hours* framework in small groups, helping you to think about effective career options and actionable next steps.
 
-#####[Sign up for the next workshop!]({% post_url 2015-10-26-80k-workshop %})
+##### [Sign up for the next workshop!]({% post_url 2015-10-26-80k-workshop %})
 
-###Contact Information
+### Contact Information
 [Kendall D'Amore](/team/#Kendall-D'Amore) and [Toban Wiebe](/team/#Toban-Wiebe)

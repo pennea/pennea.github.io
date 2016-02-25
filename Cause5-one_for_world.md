@@ -22,5 +22,5 @@ For more information about One for the World, visit the [website](http://www.1fo
 One for the World has recently expanded to Harvard Business School, and is looking to expand to Penn Law and Wharton undergraduates this year.
 If you are interested in helping with these planned expansions, or starting One for the World at your school, please get in touch!
 
-####Contact Information
+#### Contact Information
 [Rossa O'Keefe-O'Donovan](/team/#Rossa-O'Keefe-O'Donovan)

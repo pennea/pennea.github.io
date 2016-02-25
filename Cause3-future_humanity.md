@@ -11,8 +11,8 @@ We host discussions, speaker events, and study groups on the topics and fields o
 
 [Like us on Facebook!](https://www.facebook.com/futureofhumanitysociety/timeline)
 
-####Join Our Team
+#### Join Our Team
 If you're someone who's interested in working on some of the world's largest problems, and has experience organizing events and hosting workshops, we'd love to hear from you. 
 
-####Contact Information
+#### Contact Information
 [Lawrence Chan](/team/#Lawrence-Chan) and [Chris Painter](/team/#Chris-Painter)

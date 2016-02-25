@@ -20,7 +20,7 @@ We hold events at the University of Pennsylvania to assess various ways of helpi
  
 [Animal Charity Evaluators](animalcharityevaluators.org) is a very helpful organization that researches many animal charities, determines what they are spending their money on, and how effectively they are spending that money.
  
-####Contact Information
+#### Contact Information
 [Sign up to our mailing list](https://docs.google.com/forms/d/1vfaldHGN5X-j2uq4725wIg8HDEu8cHaHfbcfQJo6V4k/viewform)
 
 Email us: pennanimaladvocacy@gmail.com
