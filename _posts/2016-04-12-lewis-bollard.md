@@ -2,7 +2,7 @@
 layout: post
 guest:  "Lewis Bollard"
 title: "The Most Good You Can Do: Helping Animals Effectively"
-date:   2016-04-13 17:30:00
+date:   2016-04-12 17:30:00
 location: "Room TBC"
 categories: event
 ---
