@@ -2,7 +2,7 @@
 layout: post
 guest:  "Eric Friedman"
 title: "GiveDirectly and Cash Transfers as a Development Benchmark"
-date:   2016-03-31 19:00:00
+date:   2016-03-31 18:30:00
 location: "Huntsman F50"
 categories: event
 ---
