@@ -15,6 +15,12 @@ Join us for a talk with Lewis Bollard on Tuesday, April 12. He will be speaking 
 
 Lewis Bollard leads the Open Philanthropy Project’s strategy for Farm Animal Welfare, and has recently advised them to give $2.5m worth of grants to support corporate cage free campaigns. Prior to joining Open Philanthropy, he worked as Policy Advisor & International Liaison to the CEO at The Humane Society of the United States (HSUS). His other experience includes a position as a litigation fellow at HSUS and an associate consultant at Bain & Company. He has a B.A. from Harvard University in Social Studies and a JD from Yale Law School.
 
+[RSVP on Facebook](https://www.facebook.com/events/554661628041183/)
+
+Our event will be catered with Dottie's Donuts, and is kindly sponsored by Graduate and Professional Student Assembly (GAPSA).
+
+Co-sponsored by the Penn Animal Law Project
+
 To find out more about his work with the Open Philanthropy Project and GiveWell, see [this GiveWell blog](http://blog.givewell.org/2015/09/11/incoming-program-officer-lewis-bollard/)
 
 Read more about Lewis’ recommendation of cage-free corporate campaigns [here](http://www.openphilanthropy.org/blog/initial-grants-support-corporate-cage-free-reforms)
