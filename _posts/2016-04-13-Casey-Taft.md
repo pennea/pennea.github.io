@@ -3,7 +3,7 @@ layout: post
 guest:  "Dr. Casey Taft"
 title: "Motivational Methods for Vegan Advocacy: A Clinical Psychology Perspective"
 date:   2016-04-13 18:00:00
-location: "Huntsman Hall, Room TBC"
+location: "Steinberg Hall - Dietrich Hall, Room 213"
 categories: event
 ---
 
