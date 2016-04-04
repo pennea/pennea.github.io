@@ -3,7 +3,7 @@ layout: post
 guest:  "Lewis Bollard"
 title: "The Most Good You Can Do: Helping Animals Effectively"
 date:   2016-04-12 18:00:00
-location: "Huntsman Hall, Room TBC"
+location: "Steinberg Dietrich (SHDH), Room 1203"
 categories: event
 ---
 
