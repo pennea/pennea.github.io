@@ -13,7 +13,7 @@ Join us to learn more about our process for choosing effective charities and the
 
 More about the event:
 
-Rossa O'Keefe-O'Donovan, a 4th year Economics PhD student at UPenn will be running the session. His focus is on development economics, so this is his jam!
+Rossa O'Keeffe-O'Donovan, a 4th year Economics PhD student at UPenn will be running the session. His focus is on development economics, so this is his jam!
 
 Students from Wharton undergrad, Wharton MBA, UPenn Law and the UPenn medical school all participated in the process as well, and will be presenting their findings on each of our recommended organizations.
 
