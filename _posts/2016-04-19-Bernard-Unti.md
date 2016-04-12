@@ -3,7 +3,7 @@ layout: post
 guest:  "Bernard Unti"
 title: "Animal protection, then and now: Where we’ve come from, where we’re going"
 date:   2016-04-19 18:00:00
-location: "Huntsman Hall, Room TBC"
+location: "Huntsman Hall, Room F60"
 categories: event
 ---
 
