@@ -12,7 +12,7 @@ We host discussions, speaker events, and study groups on the topics and fields o
 [Like us on Facebook!](https://www.facebook.com/futureofhumanitysociety/timeline)
 
 #### Join Our Team
-If you're someone who's interested in working on some of the world's largest problems, we'd love to hear from you. Technical experience not necessary - we're looking for smart, hardworking people from all disciplines. Reach out to us at [admin@futureofhumanitysociety.org](mailto: admin@futureofhumanitysociety.org).
+If you're someone who's interested in working on some of the world's largest problems, we'd love to hear from you. Technical expertise not necessary - we're looking for smart, hardworking people from all disciplines. Reach out to us at [admin@futureofhumanitysociety.org](mailto: admin@futureofhumanitysociety.org).
 
 #### Contact Information
 [Lawrence Chan](/team/#Lawrence-Chan) and [Chris Painter](/team/#Chris-Painter)
