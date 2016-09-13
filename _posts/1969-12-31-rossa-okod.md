@@ -1,7 +1,7 @@
 ---
 firstname: Rossa
 lastname: O'Keefe-O'Donovan
-position: Co-President, Giving What We Can
+position: Founder, Giving What We Can
 rank: executive
 email-user: rossaokod
 email-host: gmail.com
