@@ -23,4 +23,4 @@ One for the World has recently expanded to Harvard Business School, and is looki
 If you are interested in helping with these planned expansions, or starting One for the World at your school, please get in touch!
 
 #### Contact Information
-[Rossa O'Keefe-O'Donovan](/team/#Rossa-O'Keefe-O'Donovan)
+[Lindsey Li](/team/#Lindsey-Li)

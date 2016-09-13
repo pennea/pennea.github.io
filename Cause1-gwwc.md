@@ -27,7 +27,7 @@ Students at Penn who choose to take it have pledged 1% of their disposable incom
 To join Giving What We Can at Penn does not require you to take the pledge, but it will be a wonderful way to learn more about the organization and considering it in the future. 
 
 #### Contact Information
-[Rossa O'Keefe-O'Donovan](/team/#Rossa-O'Keefe-O'Donovan) and [Nitin Krishnan](/team/#Nitin-Krishnan)
+[Mark Toubman](/team/#Mark-Toubman)
 
 
 [givewell]:http://www.givewell.org

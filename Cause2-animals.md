@@ -18,9 +18,9 @@ There are many different approaches that animal charities take, such as:
  
 We hold events at the University of Pennsylvania to assess various ways of helping animals, and to advocate for people to help animals in the most effective ways.
  
-[Animal Charity Evaluators](animalcharityevaluators.org) is a very helpful organization that researches many animal charities, determines what they are spending their money on, and how effectively they are spending that money.
+[Animal Charity Evaluators](http://www.animalcharityevaluators.org) is a very helpful organization that researches many animal charities, determines what they are spending their money on, and how effectively they are spending that money.
  
 #### Contact Information
 [Sign up to our mailing list](https://docs.google.com/forms/d/1vfaldHGN5X-j2uq4725wIg8HDEu8cHaHfbcfQJo6V4k/viewform)
 
-Email us: pennanimaladvocacy@gmail.com
+Email us: <pennanimaladvocacy@gmail.com>
