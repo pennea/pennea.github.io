@@ -1,6 +1,6 @@
 ---
-firstname: Annie
-lastname: Freeman
+firstname: Eilidh
+lastname: Beaton
 position: Co-President, Effective Animal Advocacy
 rank: executive
 email-user: eilidh
